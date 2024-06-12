@@ -56,7 +56,7 @@ p {
 }
 
 .about-section {
-    text-align: center;
+    padding: 160px 20px;
 }
 
 .about-section h1 {
@@ -115,7 +115,7 @@ p {
     text-align: center;
     padding: 0;
  }
- 
+
  .project-description {
     padding: 0;
     text-align: center;

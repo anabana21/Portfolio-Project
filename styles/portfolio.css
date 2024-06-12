@@ -76,6 +76,22 @@ p {
     padding: 120px 60px;
 }
 
+.about-section {
+    text-align: center;
+}
+
+.about-section h1 {
+    font-size: 64px;
+    line-height: 80px;
+}
+
+.about-section h2 {
+    font-size: 18px;
+    font-family: var (--default-font-family);
+}
+.about-section-content {
+    margin: 30px;
+}
 @media (max-width: 900px)
 {
    h1 {
@@ -95,3 +111,8 @@ p {
     text-align: center;
  }
    } 
+
+   .img-fluid {
+    max-width: 100%;
+    height: auto;
+   }
